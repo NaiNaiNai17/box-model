@@ -16,6 +16,8 @@ h1 {
     padding-top: 5%;
 }
 
+/* I want to make the following boxes narrower and more square-ish */
+
 .main {
     background:linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
     padding:25px;

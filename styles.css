@@ -1,0 +1,33 @@
+* {
+    margin: 0px;
+    padding:0px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 18%, rgba(253,187,45,1) 75%);
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.main {
+    background:linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    padding:25px;
+    margin: 5%;
+ 
+
+}
+
+.second {
+    background:linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,105,121,1) 20%, rgba(0,212,255,1) 100%);
+    padding: 25px;
+    margin: 5%;
+    height: ;
+}   
+
